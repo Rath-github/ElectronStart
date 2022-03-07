@@ -1,1 +1,8 @@
-
+{
+  "name": "ElectronStart",
+  "version": "1.0.0",
+  "description": "An Aplication Desktop with ElectronJS!",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT"
+}
