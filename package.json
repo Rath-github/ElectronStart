@@ -8,4 +8,7 @@
   "scripts": {
     "start": "electron ."
   },
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
 }
