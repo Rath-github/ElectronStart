@@ -4,5 +4,8 @@
   "description": "An Aplication Desktop with ElectronJS!",
   "main": "main.js",
   "author": "Thiago dos Santos",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
 }
